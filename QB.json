@@ -45,17 +45,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://d.kstore.dev/download/4344/js/含羞草kz.js"
-    },
-    {
-      "key": "hipy_js_36直播[密]",
-      "name": "🏆36直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/dr_py/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/dr_py/main/36直播[密].js"
     }
   ],
   "parses": [
